@@ -1,0 +1,12 @@
+Project Aim:
+The data set is an open data consist of traffic sign images. The project is divided in two major tasks.
+a)  Classifying images based on the shape of traffic sign
+b) Classifying images based on the meaning of traffic sign
+
+Approach of solution:
+Deep learning CNN model is used for image classification. As a baseline neural network is implemented. On the top of which the final deep learning model is implemented. Data preprocessing, Data optimization, Hyper parameter tuning, Model building and training, Evaluations are the major steps involved in the process.
+
+
+This folder has:
+- Project Code
+- Project Report

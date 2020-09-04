@@ -1,0 +1,9 @@
+Project Aim:
+- Predicting life expectancy of a new born kid based on various feathures such as physical characteristics, ethnicity etc.
+
+This folder has:
+- Project Code
+- Optput file
+- Project Report
+
+Note: Open data set is used

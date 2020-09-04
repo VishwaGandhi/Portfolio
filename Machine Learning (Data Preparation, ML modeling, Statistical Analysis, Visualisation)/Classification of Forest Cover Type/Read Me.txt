@@ -1,0 +1,3 @@
+Project aim:
+Multi level classification of forest cover type from the openly availbale forest data.
+

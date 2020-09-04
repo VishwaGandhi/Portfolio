@@ -1,0 +1,5 @@
+This is a connect four game. I have worked on the agent which are reponsible for the choosing next action/move in the game. My solution outperforms other testing agents which are in this project folder.
+
+The User Interface and skeleton code is not developed by me. I was given it by me university as a part of the assignment. 
+
+Logic of the agent is completely developed by me.
