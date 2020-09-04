@@ -1,0 +1,9 @@
+Project Aim:
+- Analysing sentiment towards India's prime minister 'Narendra Modi' from twitter data
+
+This folder has:
+- Final project code with results
+- Project report
+
+
+

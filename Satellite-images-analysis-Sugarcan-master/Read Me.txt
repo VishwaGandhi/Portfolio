@@ -1,0 +1,7 @@
+This folder has:
+- demo code of project setup 
+- Project Presentation
+- Project Sample input, output, advanced grid aquired from open data
+- Masking layer
+
+Note: Can not share entire code in a public space
